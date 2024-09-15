@@ -427,6 +427,10 @@ border: none;
    
     background-image: url(./image/Parallax.png);
 }
+#project3{
+   
+    background-image: url(./image/Animation.gif);
+}
 @media (max-width:1200px) {
     .page-header {
       padding-top: 30px;
